@@ -13,7 +13,9 @@ At the third and final step we train u-net based latent duffusion model with cro
 
 ```generate.ipynb``` notebook provides an example of usage of a fully trained model (unet + vae).
 
-Weights of trained model are located in model/ folder. lightning_logs/ folder contains logs of vae training process.
+Weights of trained model are located in model/ folder (uploaded to GDrive: https://drive.google.com/drive/folders/1qw-OSGRCsU3gTdBb3K_E3jarJpyGvYjy?usp=sharing).
+
+lightning_logs/ folder contains logs of vae training process.
 
 VAE training
 ```sh
